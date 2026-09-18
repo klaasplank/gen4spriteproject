@@ -1,5 +1,6 @@
 How to name the files:
 Assume NAME is the name of the Pokémon
+Add the Pokédex number in front of the filename! For example: 25PikachuFront.png
 
 Modern
 Images are at 80x80 size for front and back sprites, and 32x32 for the icon sprites
